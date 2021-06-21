@@ -1,6 +1,6 @@
 const profileData = {
   title: 'Resume',
-  name: 'Dharminder Sharma ',
+  name: 'Dharminder Sharma',
   sub_title: 'Deleivery Executive',
   logoURL: 'assets/images/dp.jpg',
   about: {
