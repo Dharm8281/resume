@@ -69,7 +69,7 @@ const profileData = {
       details: [
         `Worked as a  Food Delivery Boy  deleivering food from restaurants  to customers.• I bring forth a proven track record of timely, error-free deliveries, and a reputation for excellent customer service  with a track record of timely delivered food and customer satisfaction rating`
       ]
-    ],
+       },
     {
       organization: 'Little Hub Cafe',
       title: 'Cook',
