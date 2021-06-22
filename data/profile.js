@@ -40,7 +40,7 @@ const profileData = {
   ],
   skills: [
     {
-//       category: 'Programming Languages',
+      category: '',
       topics: ['Communication Skills', 'Customer Service', 'Adaptability', 'Time Management Skills']
     }
 //     {
