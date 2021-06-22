@@ -60,6 +60,7 @@ const profileData = {
 //       topics: ['MongoDB', 'PostgreSQL']
 //     }
   ],
+   projects: [],
  
   experiences: [
     {
